@@ -26,7 +26,7 @@ const printStuff = (message) => {
 
 [Another link](https://it.wikipedia.org/wiki/Pagina_principale)
 
-Do you ever ask yourself [How to bake pasta cake?](pasta-cake.md)
+Do you ever ask yourself [How to bake pasta cake?](<pasta cake.md>)
 
 
 ## 1.2
